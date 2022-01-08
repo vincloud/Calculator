@@ -1,0 +1,31 @@
+body{
+    background-color: rgb(122, 105, 120);
+}
+.container{
+    text-align: center; 
+}
+
+.calc table  {
+   margin: auto;
+}
+
+.calc{
+    padding: 23px;
+    display: inline-block;
+    background-color: rgb(56, 25, 82);
+    border-radius:53px
+}
+
+input{
+    font-size: 40px;
+    border: 6px solid   rgb(145, 163, 163);
+    border-radius: 24px;  
+}
+
+button{
+    font-size: 34px;
+    background-color: rgb(132, 157, 158);
+    width: 121px;
+    height: 87px;
+    border-radius: 31px;
+}
